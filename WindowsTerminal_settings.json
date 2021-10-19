@@ -16,10 +16,6 @@
             "keys": "ctrl+shift+f"
         },
         {
-            "command": "newTab",
-            "keys": "ctrl+shift+t"
-        },
-        {
             "command": "nextTab",
             "keys": "ctrl+pgdn"
         },
@@ -61,34 +57,6 @@
         },
         {
             "command": {
-                "action": "moveFocus",
-                "direction": "down"
-            },
-            "keys": "alt+down"
-        },
-        {
-            "command": {
-                "action": "moveFocus",
-                "direction": "left"
-            },
-            "keys": "alt+left"
-        },
-        {
-            "command": {
-                "action": "moveFocus",
-                "direction": "right"
-            },
-            "keys": "alt+right"
-        },
-        {
-            "command": {
-                "action": "moveFocus",
-                "direction": "up"
-            },
-            "keys": "alt+up"
-        },
-        {
-            "command": {
                 "action": "splitPane",
                 "split": "auto",
                 "splitMode": "duplicate"
@@ -97,10 +65,8 @@
         }
     ],
     "copyFormatting": "none",
-    "copyOnSelect": false,
     "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
     "disableAnimations": true,
-    "focusFollowMouse": true,
     "profiles": {
         "defaults": {
             "bellStyle": "none",
@@ -372,6 +338,5 @@
     ],
     "startOnUserLogin": false,
     "trimBlockSelection": true,
-    "useTabSwitcher": false,
-    "windowingBehavior": "useNew"
+    "useTabSwitcher": false
 }
