@@ -1,0 +1,14 @@
+{
+    "basename": true,
+    "colorscheme": "dracula",
+    "hlsearch": true,
+    "incsearch": false,
+    "parsecursor": true,
+    "scrollbar": true,
+    "smartpaste": false,
+    "statusformatl": " $(modified)$(filename) ($(line)/$(status.lines):$(col))",
+    "statusformatr": "$(status.branch) $(status.hash) | $(opt:fileformat) $(opt:encoding) | key:$(bind:ToggleKeyMenu) cmd:$(bind:CommandMode) sh:$(bind:ShellMode)",
+    "tabmovement": true,
+    "tabsize": 2,
+    "tabstospaces": true
+}

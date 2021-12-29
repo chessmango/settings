@@ -1,0 +1,28 @@
+{
+    "Alt-g": "",
+    "Ctrl-k": "",
+    "Alt-/": "",
+    "Ctrl-b": "",
+    "Ctrl-w": "",
+    "Ctrl-t": "",
+    "Alt-,": "",
+    "Alt-.": "",
+    "CtrlPageUp": "",
+    "CtrlPageDown": "",
+    "Ctrl-g": "",
+    "Insert": "",
+
+    "Shift-Delete": "CutLine",
+    "Alt-/": "ToggleKeyMenu",
+    "Alt-s": "ShellMode",
+    "Alt-h": "ToggleHelp",
+    "Ctrl-g": "command-edit:replace SEARCH REPLACE [-a]",
+    "Ctrl-Underscore": "lua:comment.comment",
+    "Alt-z": "lua:initlua.toggleSoftwrap",
+
+    "Ctrl-F2": "command:toggleBookmark",
+    "Ctrl-Shift-F2": "command:clearBookmarks",
+    "F2": "command:nextBookmark",
+    "F5": "lua:wc.wordCount",
+    "Shift-F2": "command:prevBookmark"
+}
